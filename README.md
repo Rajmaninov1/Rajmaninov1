@@ -1,9 +1,4 @@
-Passionate about learning new things and finding solutions to
-real-world problems. Three years of experience as backend
-developer using python to create web services and webpages with
-Django and FastAPI for multiple industries like logistics, financial,
-education and automotive. To reach the objectives needed in the
-projects I worked on I used web scraping, Docker and AWS.
+Versatile developer with solid experience in industries such as logistics, finance, software development and automotive retail. Proven experience in high performance system development, maintenance, API integration and process automation. Proficient in using AWS services, Docker and modern frameworks such as FastAPI, Django, Wagtail, BeautifulSoup, Selenium and pytest to build scalable solutions. Passionate about developing programs that help solve complex problems such as: web development, data analytics, data mining, web scraping and machine learning.
 
 # EXPERIENCE
 
@@ -12,11 +7,12 @@ projects I worked on I used web scraping, Docker and AWS.
 **Hubtek | November 2022 - Actual**
 
 ```
-- Create and maintain API REST services using FastAPI.
+- AWS and Terraform.
+- Create / maintain API REST microservices using FastAPI.
 - Integrate 3rd party REST/SOAP APIs.
 - Unit testing with pytest.
-- Create and maintain python scripts for pdf document analysis.
-- Test high loads in API services using batch aync requests.
+- Create and maintain python scripts for pdf analysis. 
+- Deploy AWS infraestructure
 ```
 
 ## BACKEND DEVELOPER
@@ -24,12 +20,12 @@ projects I worked on I used web scraping, Docker and AWS.
 **IncubApp Venture Capital | May 2021 - Actual**
 
 ```
-- Web Scraping with simple requests and beautifulsoup.
+- Web Scraping with requests and beautifulsoup.
 - API REST services with FastAPI.
 - Agile methodologies.
 - Selenium automations.
-- AWS Kinesis Firehose.
-- Docker Compose architecture.
+- AWS.
+- Docker Compose.
 ```
 
 ## BACKEND DEVELOPER
@@ -48,7 +44,7 @@ projects I worked on I used web scraping, Docker and AWS.
 ```
 - Test automations with selenium (python).
 - Technical support for intern platform for the financial area.
-- T-SQL queries and procedures (SQL Server).
+- T-SQL procedures.
 ```
 
 ## FULL-STACK PYTHON DEVELOPER
@@ -57,10 +53,24 @@ projects I worked on I used web scraping, Docker and AWS.
 
 ```
 - Develop from scratch an internal portal with Django.
-- T-SQL queries and procedures (SQL Server).
+- T-SQL queries and procedures.
 - Data visualization with dashboards on KPIs.
-- Bootstrap | CSS | Vanilla Javascript.
+- Bootstrap | CSS | Javascript.
 ```
+
+# PRINCIPAL PROJECTS
+
+- Automated Email Processing with AWS: I developed a serverless solution that validates, categorizes, and routes Outlook emails using Lambda. Valid emails are sent to specific systems (internal and third party integrations), while invalid ones trigger notifications and are moved to error folders. I used SQS for message processing and integrated EventBridge, API Gateway, and Secrets Manager for scalability and security.
+
+- Scalable Notification System: I designed and implemented a notification system using SQS, SNS, SES, and Lambda to process events from a FastAPI API, automating the generation of dynamic, scalable emails.
+
+- Authentication Migration to AWS Cognito: I led the migration of a custom authentication system to Cognito, integrating OAuth2 and Secrets Manager to enhance security, simplify user management, and ensure scalability.
+
+- Developed three microservices using FastAPI, HTTPX, Selenium, BeautifulSoup, and Docker: one for scraping data from Google Maps and landing pages, another for LinkedIn scraping, and a third for automating interactions on WhatsApp Web. The microservices were containerized with Docker and deployed on AWS ECS and Fargate.
+
+- Developed the backend for a content management system (CMS) using Wagtail for a teachers' website created for an educational books publisher. The project provided teachers with access to resources like lesson plans, guides, and assessments organized by grade levels and subjects. I implemented custom features such as user management and role-specific profiles for teachers and administrators
+
+- Developed a comprehensive internal website as a full-stack developer using Django, HTML, CSS, Bootstrap, and JavaScript, collaborating across all departments. The platform includes a news portal with category filters, an employee directory, a training site for managing courses with permissions, data charts and tables showing financial performance, NPS, and customer satisfaction metrics, along with a Google Forms clone. I handled everything from database design, SQL procedures, data cleaning, backend and frontend development, to deployment. Memcached was used for caching to optimize performance, providing the company with a scalable and user-friendly solution.
 
 # EDUCATION
 
