@@ -1,6 +1,5 @@
 # Julian Felipe Tolosa Villamizar
 **Backend Developer | System Integrations & Automation Specialist**  
-Bucaramanga, Santander, Colombia  
 [Email](mailto:8.8tolosajulian@gmail.com) | [LinkedIn](https://www.linkedin.com/in/julian-felipe-tolosa-villamizar) | [GitHub](https://github.com/rajmaninov1)
 
 ---
