@@ -1,179 +1,57 @@
-Versatile developer with solid experience in industries such as logistics, finance, software development and automotive retail. Proven experience in high performance system development, maintenance, API integration and process automation. Proficient in using AWS services, Docker and modern frameworks such as FastAPI, Django, Wagtail, BeautifulSoup, Selenium and pytest to build scalable solutions. Passionate about developing programs that help solve complex problems such as: web development, data analytics, data mining, web scraping and machine learning.
+# Julian Felipe Tolosa Villamizar
+**Backend Developer | System Integrations & Automation Specialist**  
+Bucaramanga, Santander, Colombia  
+[Email](mailto:8.8tolosajulian@gmail.com) | [LinkedIn](https://www.linkedin.com/in/julian-felipe-tolosa-villamizar) | [GitHub](https://github.com/rajmaninov1)
 
-# EXPERIENCE
+---
 
-## BACKEND DEVELOPER
+## Summary
+Backend Developer with a proven track record in designing and implementing scalable cloud solutions. Experienced in system integrations, process automation, and high-performance systems in logistics and software development. Proficient in AWS, Python (FastAPI, Django), and microservices, with a focus on creating and optimizing REST and SOAP API integrations and robust serverless architectures.
 
-**Hubtek | November 2022 - Actual**
+---
 
-```
-- AWS and Terraform.
-- Create / maintain API REST microservices using FastAPI.
-- Integrate 3rd party REST/SOAP APIs.
-- Unit testing with pytest.
-- Create and maintain python scripts for pdf analysis. 
-- Deploy AWS infraestructure
-```
+## Experience
 
-## BACKEND DEVELOPER
+### **Backend Developer | Hubtek**  
+**November 2022 - Present**
+- **Email Processing Automation:** Transitioned from multiple RPAs to a serverless solution using AWS Lambda, SQS, and EventBridge, reducing costs by more than 50% and enhancing service reliability and speed.
+- **Logistics Service Integrations:** Developed and implemented 10 key third-party logistics service integrations using REST and SOAP APIs, expediting client onboarding and improving integration efficiency.
+- **Scalable Email Notification System:** Designed and deployed a real-time email notification system with FastAPI, AWS SQS, SNS, SES, and Lambda, improving client monitoring with dynamic templates.
+- **Authentication System Migration:** Migrated from a custom authentication system to AWS Cognito and Secrets Manager, enhancing security and simplifying user management.
 
-**IncubApp Venture Capital | May 2021 - Actual**
+### **Lead of Backend Team | IncubApp Venture Capital**  
+**January 2021 - Present**
+- Led a team of developers in creating microservices for web scraping and social media automation projects.
+- Developed and deployed microservices using FastAPI, BeautifulSoup, Selenium, and Docker for scraping data from Google Maps, landing pages, and LinkedIn, as well as automating WhatsApp Web interactions.
+- Fostered collaboration and knowledge sharing within the team, ensuring high-quality code delivery and efficient project management.
 
-```
-- Web Scraping with requests and beautifulsoup.
-- API REST services with FastAPI.
-- Agile methodologies.
-- Selenium automations.
-- AWS.
-- Docker Compose.
-```
+---
 
-## BACKEND DEVELOPER
+## Technical Skills
+- **Programming Languages:** Python, JavaScript
+- **Frameworks:** FastAPI, Django, Wagtail
+- **Cloud and DevOps:** AWS (Lambda, SQS, SNS, SES, Cognito, DynamoDB, Secrets Manager), Docker, Terraform
+- **Tools & Libraries:** Selenium, BeautifulSoup, pytest, boto3
+- **APIs & Integrations:** REST and SOAP APIs, OAuth2, Third-party API integrations
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, SQL Server
+- **Data Analysis:** KPIs, Statistics, Machine Learning, Data analysis, Data cleaning
 
-**Aguayo | Mar 2022 - November 2022**
+---
 
-```
-- Develope and maintain backend for Web Pages made with Wagtail.
-- Docker compose.
-```
+## Education
+**Bachelor’s Degree in Systems Engineering**  
+Universidad Industrial de Santander
 
-## DEVELOPER - SUPPORT
+---
 
-**Shareppy Internacional | Nov 2021 - Feb 2022**
+## Courses
+- Systems Technician
+- Learn Data Science: Basic Concepts
+- NLP - Natural Language Processing with Python
+- The Complete Guide to Creating Bot Automations
+- Web Development: HTML from Scratch
+- Git Professional Course
+- Database Professional Course
+- Web Development Professional Course
 
-```
-- Test automations with selenium (python).
-- Technical support for intern platform for the financial area.
-- T-SQL procedures.
-```
-
-## FULL-STACK PYTHON DEVELOPER
-
-**Mayorautos SAS | April 2021 - Oct 2021**
-
-```
-- Develop from scratch an internal portal with Django.
-- T-SQL queries and procedures.
-- Data visualization with dashboards on KPIs.
-- Bootstrap | CSS | Javascript.
-```
-
-# PRINCIPAL PROJECTS
-
-- Automated Email Processing with AWS: I developed a serverless solution that validates, categorizes, and routes Outlook emails using Lambda. Valid emails are sent to specific systems (internal and third party integrations), while invalid ones trigger notifications and are moved to error folders. I used SQS for message processing and integrated EventBridge, API Gateway, and Secrets Manager for scalability and security.
-
-- Scalable Notification System: I designed and implemented a notification system using SQS, SNS, SES, and Lambda to process events from a FastAPI API, automating the generation of dynamic, scalable emails.
-
-- Authentication Migration to AWS Cognito: I led the migration of a custom authentication system to Cognito, integrating OAuth2 and Secrets Manager to enhance security, simplify user management, and ensure scalability.
-
-- Developed three microservices using FastAPI, HTTPX, Selenium, BeautifulSoup, and Docker: one for scraping data from Google Maps and landing pages, another for LinkedIn scraping, and a third for automating interactions on WhatsApp Web. The microservices were containerized with Docker and deployed on AWS ECS and Fargate.
-
-- Developed the backend for a content management system (CMS) using Wagtail for a teachers' website created for an educational books publisher. The project provided teachers with access to resources like lesson plans, guides, and assessments organized by grade levels and subjects. I implemented custom features such as user management and role-specific profiles for teachers and administrators
-
-- Developed a comprehensive internal website as a full-stack developer using Django, HTML, CSS, Bootstrap, and JavaScript, collaborating across all departments. The platform includes a news portal with category filters, an employee directory, a training site for managing courses with permissions, data charts and tables showing financial performance, NPS, and customer satisfaction metrics, along with a Google Forms clone. I handled everything from database design, SQL procedures, data cleaning, backend and frontend development, to deployment. Memcached was used for caching to optimize performance, providing the company with a scalable and user-friendly solution.
-
-# EDUCATION
-
-## SYSTEMS ENGINEERING
-
-### Universidad Industrial de Santander | 2017 - Actual
-
-```
-- Machine Learning
-- Docker and Kubernetes
-- Computer Vision
-- Data analysis
-```
-
-## SYSTEMS TECHNICIAN
-
-### SENA
-
-```
-- Course 50 hours applied robotics.
-- Course 40 hours basic computer maintenance.
-- Course 40 hours use of computer tools.
-```
-
-## SHORT COURSES
-
-### LINKEDIN
-
-```
-- Learn data science: Basic concepts
-```
-
-### UDEMY
-
-```
-- NLP - Natural Language Processing with Python.
-- Team Growth: Tools and processes to drive your business forward.
-- The complete guide to creating bots and automating your daily work.
-- Web development. HTML from scratch. 2020 Edition.
-- Successful business development on the Internet.
-```
-
-### Código Facilito
-
-```
-- Git professional course.
-- Database professional course.
-- Web development professional course.
-```
-
-### DOMESTIKA
-
-```
-- Introduction to community management.
-```
-
-# TECHNICAL SKILLS
-
-```
-- Python
-- Django
-- Docker
-- Microservices
-- API (REST, SOAP)
-- GIT
-- Selenium
-- Wagtail
-- SQL (Postgres, SQL Server)
-- Object Oriented Programming (OOP)
-- Three layer architecture
-- Bash
-- FastAPI
-- AWS
-- Web Scraping
-- Serverless
-- API (REST, SOAP)
-- Kubernetes
-- Agile methodologies (SCRUM, Kanban)
-- noSQL (Mongo, dynamo)
-- Unit testing (pytest)
-- SOLID
-- 3rd party API integration
-- MVC architecture
-```
-
-### Complementary skills
-
-```
-- SEO Optimization
-- CSS
-- JavaScript
-- Selenium
-- TensorFlow
-- Pandas | Numpy
-- Data science
-- Data analysis
-- Deep Learning
-- Bootstrap
-```
-
-# LANGUAJES
-
-```
-- Spanish (native)
-- English (Basic profesional)
-```
+---
