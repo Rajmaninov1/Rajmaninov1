@@ -10,16 +10,19 @@ Ingeniero Backend con **4+ años de experiencia** en el desarrollo de **integrac
 ---
 
 ## Habilidades Técnicas
-**Lenguajes:** Python, SQL, Bash, JavaScript  
-**Integración y APIs:** REST, SOAP, OpenAPI, OAuth2, JWT, Microservicios  
-**Frameworks:** FastAPI, Django, Selenium, BeautifulSoup, Pydantic, HTTPX  
-**Cloud & DevOps:** AWS (Lambda, S3, EventBridge, SQS, Cognito, ECS, ECR, ALB, API Gateway), Docker, CI/CD, Terraform  
-**Arquitectura & Patrones:** Orientada a Eventos, Microservicios, Hexagonal, SOLID, Clean, Dependency Injection, Repository Pattern  
-**Testing & Calidad:** Unit Testing, Static Analysis, Code Review  
-**Bases de Datos:** PostgreSQL, MySQL, DynamoDB, MongoDB, Redis  
-**Herramientas:** Git, GitHub Actions, Docker Compose, Postman, Swagger/OpenAPI  
-**Seguridad:** Autenticación, Autorización, Encriptación, AWS IAM, Secrets Manager  
-**Mensajería & Data:** Event-Driven Architecture, SQS, Pub/Sub, Transformación de Datos (JSON, XML, CSV)  
+| Categoría               | Tecnologías / Herramientas                                                                                                      |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Lenguajes**            | Python, SQL, Bash, JavaScript                                                                                                   |
+| **Integración y APIs**   | REST, SOAP, OpenAPI, OAuth2, JWT, Microservicios                                                                                 |
+| **Frameworks**           | FastAPI, Django, Selenium, BeautifulSoup, Pydantic, HTTPX                                                                        |
+| **Cloud & DevOps**       | AWS (Lambda, S3, EventBridge, SQS, Cognito, ECS, ECR, ALB, API Gateway), Docker, CI/CD, Terraform                                 |
+| **Arquitectura & Patrones** | Orientada a Eventos, Microservicios, Hexagonal, SOLID, Clean, Dependency Injection, Repository Pattern                          |
+| **Testing & Calidad**    | Unit Testing, Static Analysis, Code Review                                                                                       |
+| **Bases de Datos**       | PostgreSQL, MySQL, DynamoDB, MongoDB, Redis                                                                                       |
+| **Herramientas**         | Git, GitHub Actions, Docker Compose, Postman, Swagger/OpenAPI                                                                     |
+| **Seguridad**            | Autenticación, Autorización, Encriptación, AWS IAM, Secrets Manager                                                               |
+| **Mensajería & Data**    | Event-Driven Architecture, SQS, Pub/Sub, Transformación de Datos (JSON, XML, CSV)                                                 |
+
 
 ---
 
