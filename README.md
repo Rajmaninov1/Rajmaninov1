@@ -1,5 +1,5 @@
 # Julian Felipe Tolosa Villamizar
-**Ingeniero Backend | Integración de Sistemas | Python • FastAPI • AWS**  
+**Ingeniero Backend | Integración y automatización de Sistemas | Python • FastAPI • AWS**  
 Remoto (Colombia) | 8.8tolosajulian@gmail.com | [LinkedIn](https://www.linkedin.com/in/julian-felipe-tolosa-villamizar/)  
 
 ---
